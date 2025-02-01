@@ -41,6 +41,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!-- Apache Tika dependency -->
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-app</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!-- New dependency -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
