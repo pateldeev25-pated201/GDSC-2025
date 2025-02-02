@@ -55,8 +55,8 @@ def upload_files():
 # Test API call to simulate uploading files and getting results
 def test_api():
     # Path to your local resume and job description text files
-    resume_path = 'path_to_resume.txt'
-    job_description_path = 'path_to_job_description.txt'
+    resume_path = 'resume.txt'
+    job_description_path = 'job_description.txt'
 
     # Open the files in 'rb' mode (binary) as you're sending them as files
     with open(resume_path, 'rb') as resume_file, open(job_description_path, 'rb') as job_description_file:
