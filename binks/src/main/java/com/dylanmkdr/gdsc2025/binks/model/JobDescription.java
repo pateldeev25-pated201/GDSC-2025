@@ -1,38 +1,49 @@
 package com.dylanmkdr.gdsc2025.binks.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity
+@Table(name = "job_descriptions")
 public class JobDescription {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String description;
+    private String originalFileName;
+
+    @Column(columnDefinition = "TEXT")
+    private String parsedText;
+
+    // Constructors
+    public JobDescription() {}
+
+    public JobDescription(String originalFileName, String parsedText) {
+        this.originalFileName = originalFileName;
+        this.parsedText = parsedText;
+    }
 
     // Getters and Setters
-
-    public Long getId() 
-    {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Long id) 
-    {
+    public void setId(Long id) {
         this.id = id;
     }
 
-    public String getDescription() 
-    {
-        return description;
+    public String getOriginalFileName() {
+        return originalFileName;
     }
 
-    public void setDescription(String description) 
-    {
-        this.description = description;
+    public void setOriginalFileName(String originalFileName) {
+        this.originalFileName = originalFileName;
+    }
+
+    public String getParsedText() {
+        return parsedText;
+    }
+
+    public void setParsedText(String parsedText) {
+        this.parsedText = parsedText;
     }
 }
