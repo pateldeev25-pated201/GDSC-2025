@@ -1,0 +1,57 @@
+Job Description:
+
+We are currently hiring a Software Analyst Intern for a summer term position, from May to August 2025 (4months), at our Hitachi Rail office in North York.
+
+To perform design, analysis, programming and integration activities in the development of software for train control systems of Hitachi Rail Signaling Solutions, achieving Customer Satisfaction of the delivered solution/product.
+
+Key Accountabilities
+
+Understands the customer’s needs and through life cycle concerns whatever the used means (e.g. advanced studies, simulations, mock-ups, models, prototypes, etc.).
+
+Contributes to the formalization of mission/function description, architectural & algorithms design and the refinement of functional and non-functional requirements.
+
+Designs codes, debugs, write test procedures and tests software code, chairs design reviews.
+
+Reviews code, test procedures and test results
+
+Analyses and implements correction for defect reports
+
+Perform engineering testing in the field and investigates problems in the field.
+
+Contributes to co-engineering activities with the Software Engineering team in order to ensure system-software consistency and the right refinement of software components and compliance with the software architecture.
+
+Solves tasks in the best technical and timely manner. Looks for opportunities and make suggestions for improvements.
+
+Key Requirements 
+
+The successful candidate should be working towards a bachelor’s degree from an accredited university or college in Engineering, Computer Science, or a related field.
+
+Entry level analysis skills, able to diagnose issues based on field logs and correlate events to failures
+
+Good command of the scripting language. Python and C preferred.
+
+Able to handle assignments within a small to medium scale software application
+
+Knowledgeable of the software development processes
+
+Able to quickly integrate with the team and work independently
+
+Knowledge of software development environment (Microsoft Visual Studio, desktop simulator, target simulator etc.)
+
+Experience in working within a team using Agile Methodologies
+
+Practical experience in using typical programs which are part of Microsoft Office Suite
+
+Practical experience with source control, IDE and requirements management tools (e.g Eclipse, Jira, Git, ClearCase, ClearQuest, Doors, etc)
+
+The ability to work 40 hours a week in a hybrid environment for the duration of the internship is essential. At least 2 days a week in the office.
+
+Preferred Qualifications
+
+Co-op student available for an 4-month term, with at least one additional quarter or semester of coursework remaining after the completion of the internship.
+
+Previous coop work experience is an asset. Relevant school projects may be considered.
+
+Knowledgeable of the software development process preferred.
+
+Thank you for your interest in Hitachi Rail. If your application is of interest, we will be in contact. Please do not hesitate to discover more about us and our latest jobs at https://www.hitachirail.com/careers.

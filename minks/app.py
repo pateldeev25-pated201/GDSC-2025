@@ -5,6 +5,7 @@ from google.cloud import vision
 from google.cloud.vision_v1 import types
 import io
 from utils.resume_processor import process_resume, remove_personal_info, score_resume, generate_report
+import requests
 
 # Load environment variables from .env file
 load_dotenv()
@@ -51,5 +52,30 @@ def upload_files():
         'report': report
     })
 
+# Test API call to simulate uploading files and getting results
+def test_api():
+    # Path to your local resume and job description text files
+    resume_path = 'resume.txt'
+    job_description_path = 'job_description.txt'
+
+    # Open the files in 'rb' mode (binary) as you're sending them as files
+    with open(resume_path, 'rb') as resume_file, open(job_description_path, 'rb') as job_description_file:
+        # Create a dictionary for the files
+        files = {
+            'resume': (resume_path, resume_file, 'text/plain'),
+            'job_description': (job_description_path, job_description_file, 'text/plain')
+        }
+        
+        # Make the POST request to the Flask endpoint
+        response = requests.post('http://127.0.0.1:5000/upload', files=files)
+
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            print("Response from API:", response.json())  # Print the returned JSON response
+        else:
+            print("Error occurred:", response.status_code)
+
+# Run the test API function when app is started
 if __name__ == '__main__':
+    test_api()  # Call the test function here
     app.run(debug=True)

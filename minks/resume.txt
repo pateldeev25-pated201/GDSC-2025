@@ -1,0 +1,48 @@
+Rushil Karani
+647-617-4366 | rushil.karani@gmail.com | Linkedin | Devpost
+Education
+McMaster University (B. Eng.) Hamilton, ON
+Software Engineering Co-op (GPA: 3.9/4.0), Dean’s Honour List 2023-24 Sep. 2023 – Present
+Relevant Coursework: OOP-Principles, Digital Systems, Software Design, Data-Structures and Algorithms,
+Discrete Math, Development Basics, Computer Architecture, Engineering Design Projects, Linear Algebra.
+International Baccalaureate Diploma Mississauga, ON
+Glenforest Secondary School Jun. 2023
+Key Skills
+Programming Languages: Java, Python, C, Bash, JavaScript, MatLab, Verilog.
+Developer Tools: Microsoft 365, Google Suite, Node.js, ReactJS, Express, MongoDB, Git, Linux(WSL)/UNIX, Maven,
+Cohere API, VS Code, Eclipse, PyGame, Replit, Quanser Q-labs, Granta, Soldering, Autodesk Inventor CAD.
+Interests: Full-stack dev, iOS & Android Dev, Data Science, Quant, ML/AI, VR/AR, Cybersecurity, Data Science.
+Projects
+Smart Tic-Tac-Toe Game | W | Core Java OOP, Maven Nov. 2024 – Dec. 2024
+• Developed a smart Tic-Tac-Toe game with three gameplay modes: Player vs. Player, Player vs. Computer, and
+Computer vs. Computer. Implemented customizable NxN grid sizes (N ranging from 3 to 20).
+• Engineered a smart computer player algorithm capable of strategic moves based on the game’s state.
+• Applied advanced OOP principles like polymorphism, inheritance, overloading and abstraction.
+• Demonstrated strong understanding of software design principles by resolving 50+ edge cases.
+MatrixMate - Matrix Calculator | W | C, Git, Bash, Linux Command Line Nov. 2024 – Dec. 2024
+• Collaborated in a team to develop a Matrix Calculator application in C, capable of handling user or file input.
+• Implemented features for advanced matrix operations like multiplication, cofactor, adjoint, and more.
+• Leveraged GitHub workflows and build scripts for auto build and testing, increasing efficiency by 20%.
+• Demonstrated strong skills in software design and advanced C concepts like efficient memory allocation.
+HealthConnect - Delta Hacks Hackathon | W | JavaScript, MERN Stack Jan. 2025
+• Developed a healthcare web app, to reduce long wait times in Canadian walk-in clinics by up to 20%.
+• Gained experience using MongoDB, Express, React and Node.js to build full-stack web apps.
+• Developed an AI chatbot using Cohere API that can provide users with first-aid solutions and home remedies.
+• Incorporated ethical guidelines into chatbot responses and avoided replacing professional medical advice.
+• Implemented doctor and patient UIs to communicate/book appointments, increasing efficiency by 50%.
+Student Organizer App | Java, Vaadin, UI/UX Sep. 2022 – Jun. 2023
+• Developed a web application that assists students with logging notes and tasks, and calculates GPA.
+• Used Java OOP for back-end functions, and used the Vaadin plugin to build a modern-looking GUI.
+• Practiced the SDLC by communicating with the client for feedback and made improvements to the app.
+• Designed as a part of the International Baccalaureate CS course: earned a grade of Level 7 (max grade).
+Google Snake Game | Python, PyGame Sep. 2020 – Jun. 2021
+• Recreated the popular Google Snake Game using Python and libraries like PyGame.
+• Gained experience in Game Development and learnt skills like Vector Motion using PyGame
+• Practiced the SDLC with time-to-time increments. Got feedback from peers and improved the game over time.
+Leadership Experience
+Facilitator for YEY Leadership Course Vancouver, BC
+Youth Empowering Youth - Low Entropy Foundation
+• Facilitated multiple workshops for high school students and coached them to build leadership skills.
+• Guided participants to set goals, build a plan to achieve goals, and provided them with helpful resources.
+• Empowered participants to become future leaders by promoting skill development tasks and personal growth.
+• Reinforced my leadership, communication, self-management, and technical skills.
