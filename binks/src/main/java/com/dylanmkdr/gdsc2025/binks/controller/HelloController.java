@@ -1,4 +1,4 @@
-package com.dylanmkdr.gdsc2025.binks;
+package com.dylanmkdr.gdsc2025.binks.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
