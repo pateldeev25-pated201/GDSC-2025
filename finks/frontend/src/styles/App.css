@@ -1,0 +1,147 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+nav {
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+}
+
+.app-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+main {
+  padding: 24px 0;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+input[type="text"],
+input[type="file"],
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+}
+
+textarea {
+  min-height: 100px;
+}
+
+button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #2563eb;
+}
+
+button:disabled {
+  background-color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.job-posting-card {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.job-posting-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.job-posting-description {
+  color: #4b5563;
+  margin-bottom: 0.5rem;
+}
+
+.job-posting-skills {
+  margin-bottom: 1rem;
+}
+
+.ai-review-panel {
+  background-color: #f3f4f6;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.ai-review-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.ai-review-match {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.ai-review-percentage {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.ai-review-fit {
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+}
+
+.good-fit {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+.not-good-fit {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.ai-review-details {
+  font-size: 0.875rem;
+}
+
